@@ -29,5 +29,3 @@ async def degen(cxt):
 
 
 bot.run('Njg5MTc2NDgyODE1NDEwMjUy.XnF7-w.Gj5LK_lrg0Un2vAVTXsIU6vVjwg')
-
-## test change ; this is kasim typing
